@@ -27,6 +27,9 @@ def get_prediction(image_data):
 
 #creating the web app
 
+#add github link
+st.link_button("Go to Github Repository", "https://github.com/ShilpiShaw25/AP_Polytechnic_Image_classification")
+
 #setting up the title
 st.title("Cars and Ships Image Classifier")#change according to your project   #edit 3
 #setting up the subheader
