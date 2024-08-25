@@ -25,7 +25,7 @@ def get_prediction(image_data):
 
 
 #setting up the title
-st.title("Welcome to Image Classifier Web App!")#change according to your project   #edit 3
+st.title(":blue[Welcome to Image Classifier Web App!]")#change according to your project   #edit 3
 
 
 #creating the tabs for the web app
