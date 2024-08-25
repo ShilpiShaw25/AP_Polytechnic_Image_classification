@@ -25,7 +25,7 @@ def get_prediction(image_data):
 
 
 #setting up the title
-st.title(":skyblue[_Welcome_ _to_ _Image_ _Classifier_ _Web_ _App_]")#change according to your project   #edit 3
+st.title(":blue[_Welcome_ _to_ _Image_ _Classifier_ _Web_ _App_]")#change according to your project   #edit 3
 
 
 #creating the tabs for the web app
