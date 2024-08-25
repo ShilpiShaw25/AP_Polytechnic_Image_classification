@@ -34,7 +34,7 @@ tab1, tab2 = st.tabs(["Make Prediction", "View Report"])
 
 with tab1:
   #setting up the title
-  st.header("_Cars and Ships Image Classifier")#change according to your project   #edit 3
+  st.header("_Cars_ _and_ _Ships_ _Image_ _Classifier_")#change according to your project   #edit 3
   #setting up the subheader
   st.subheader("File Uploader")#change according to your project
 
@@ -82,7 +82,7 @@ with tab1:
 with tab2:
 
   # Title of the app
-  st.header("_My Report")
+  st.header("_My_ _Report_")
 
   #add github link
   st.link_button("My Github Repository", "https://github.com/ShilpiShaw25/AP_Polytechnic_Image_classification")
