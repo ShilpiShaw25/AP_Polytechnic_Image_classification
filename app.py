@@ -25,7 +25,7 @@ def get_prediction(image_data):
 
 
 #setting up the title
-st.title(":blue[_Welcome_ _to_ _Image_ _Classifier_ _Web_ _App_]")#change according to your project   #edit 3
+st.title(":skyblue[_Welcome_ _to_ _Image_ _Classifier_ _Web_ _App_]")#change according to your project   #edit 3
 
 
 #creating the tabs for the web app
@@ -34,7 +34,7 @@ tab1, tab2 = st.tabs(["Make Prediction", "View Report"])
 
 with tab1:
   #setting up the title
-  st.header("_Cars_ _and_ _Ships_ _Image_ _Classifier_")#change according to your project   #edit 3
+  st.header("_Cars_ _and_ _Ships_ _Classifier_")#change according to your project   #edit 3
   #setting up the subheader
   st.subheader("File Uploader")#change according to your project
 
